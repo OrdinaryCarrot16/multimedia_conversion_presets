@@ -11,4 +11,4 @@ A collection of scripts for re-encoding existing media (mostly videos, and music
 - FFMpeg
 - MakeMKV
 - VapourSynth
-- VapourEditor
+- VapourSynth-Editor
