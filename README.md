@@ -1,6 +1,8 @@
 # multimedia_conversion_presets
 A collection of scripts for re-encoding existing media (mostly videos, and music) with various 'enhancements' hand-picked by me, for the simplicity and convenience of others and myself.
 
+I tried to make the experience for users as simple as I could, but the user will probably still need a decent amount of knowledge with computers to figure out how to use them. It should mostly just be a case of installing the required software, and adding some of them to your PATH (to access it from your shell). The problem might arise in the AviSynth+ external plugins, but I will try to write instructions in the future.
+
 ## Software Required (User):
 - [FFMpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for pretty much everything encoding related)
 - [MakeMKV](https://www.makemkv.com/download/) (for ripping DVDs and Blu-Rays)
