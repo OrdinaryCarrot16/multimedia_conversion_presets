@@ -5,6 +5,10 @@ A collection of scripts for re-encoding existing media (mostly videos, and music
 - [FFMpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for pretty much everything encoding related)
 - [MakeMKV](https://www.makemkv.com/download/) (for ripping DVDs and Blu-Rays)
 - [AviSynth+](https://github.com/AviSynth/AviSynthPlus/releases/) (for scripting more advanced edits)
+  - [FFMS2](https://github.com/FFMS/ffms2/releases)
+  - [Neo VagueDenoiser](https://github.com/HomeOfAviSynthPlusEvolution/neo_Vague_Denoiser/releases)
+  - [HQDN3D](https://github.com/Asd-g/AviSynth-hqdn3d/releases)
+  - [aSharp](https://github.com/Asd-g/AviSynth-ASharp/releases)
 
 ## Software I Used:
 
