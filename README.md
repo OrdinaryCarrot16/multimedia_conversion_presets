@@ -14,13 +14,8 @@ I tried to make the experience for users as simple as I could, but the user will
   - [aSharp](https://github.com/Asd-g/AviSynth-ASharp/releases) (Sharpening)
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) (WEBM Muxing)
 
-## Software I Used:
-
-- [FFMpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for pretty much everything encoding related)
-- [MakeMKV](https://www.makemkv.com/download/) (for ripping DVDs and Blu-Rays)
-- [AviSynth+](https://github.com/AviSynth/AviSynthPlus/releases/) (for scripting more advanced edits)
+## Software I Used (that isn't listed in 'Software Required'):
 - [AvsPmod](https://github.com/gispos/AvsPmod/releases) (for previewing scripts)
-- [MKVToolNix](https://mkvtoolnix.download/downloads.html) (WEBM Muxing)
 
 ## Formats, Encoders, and Parameters
 
