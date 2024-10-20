@@ -27,16 +27,16 @@ I tried to make the experience for users as simple as I could, but the user will
 ### DVD
 
 - Video Encoding: MPEG2 > VP8
-- Audio Encoding: ??? > Vorbis
-- Resolution: 480p > 480p
+- Audio Encoding: ??? > Opus
+- Resolution: 480p > 480p (Decent quality)
 - Video Bitrate (CRF): 20
 - Audio Bitrate (VBR): 160k
 
 ### Blu-Ray
 
-- Video Encoding: H.264 > VP9
+- Video Encoding: H.264 > VP8 (Faster than VP9, and better optimized for resolutions under 1080p)
 - Audio Encoding: ??? > Opus
-- Resolution: 1080p > 720p
+- Resolution: 1080p > 720p (Good quality; more space savings)
 - Video Bitrate (CRF): 20
 - Audio Bitrate (VBR): 192k
 
